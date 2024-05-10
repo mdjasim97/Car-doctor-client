@@ -24,7 +24,7 @@ const Products = () => {
                     {
                         products?.slice(0, productsLength).map(product => <div className='card card-compact shadow-xl'
                             key={product.id}>
-                            <figure className='bg-base-200 p-4'><img src={product.image} className='w-full h-48' alt="" /></figure>
+                            <figure className='bg-base-200 p-4'><img src={product.image} className='w-full h-56' alt="" /></figure>
                             <div className='card-body text-center'>
                                 <div className="rating flex justify-center">
                                     <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
