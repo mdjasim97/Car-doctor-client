@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/1.png"
+    },
+    {
+        "id": 2,
+        "title": "Car Air Filter",
+        "price": 20,
+        "image": "../src/assets/images/products/2.png"
+    },
+    {
+        "id": 3,
+        "title": "Cools Led Light",
+        "price": 20,
+        "image": "../src/assets/images/products/3.png"
+    },
+    {
+        "id": 4,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/4.png"
+    },
+    {
+        "id": 5,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/5.png"
+    },
+    {
+        "id": 6,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/6.png"
+    },
+    {
+        "id": 7,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/1.png"
+    },
+    {
+        "id": 8,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/2.png"
+    },
+    {
+        "id": 9,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/3.png"
+    },
+    {
+        "id": 10,
+        "title": "Car Engine Plug",
+        "price": 20,
+        "image": "../src/assets/images/products/4.png"
+    }
+]
