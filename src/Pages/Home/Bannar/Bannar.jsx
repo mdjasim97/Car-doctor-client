@@ -8,7 +8,7 @@ import sliderPic_6 from '../../../assets/images/banner/6.jpg'
 
 const Bannar = () => {
     return (
-        <div>
+        <div id='banner'>
             <div className="carousel w-full h-[600px] rounded-xl">
 
                 <div id="slide1" className="carousel-item w-full relative ">

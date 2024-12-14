@@ -13,7 +13,7 @@ const Products = () => {
     }, [])
 
     return (
-        <div className='my-28'>
+        <div id='products' className='my-28'>
             <div className='text-center w-full flex flex-col items-center space-y-6'>
                 <p className='text-lg font-bold text-orange-600 '>Popular Products</p>
                 <h1 className='text-5xl font-bold '>Browse Our Products</h1>

@@ -5,7 +5,7 @@ import locationPic from '../../../assets/icons/location.png'
 
 const Contact = () => {
     return (
-        <div className='my-28'>
+        <div id='contact' className='my-28'>
             <div className='bg-[#202020] flex text-white p-14 rounded-lg my-10'>
                 <div className='flex items-center w-1/3'>
                     <div className='p-4'>
